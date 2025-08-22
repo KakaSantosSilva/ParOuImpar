@@ -1,6 +1,5 @@
 //Par ou impar
-parOuimpar(2) //
-
+parOuimpar(2) // aqui entra o número que vai ser testado.
 parOuimpar(5)
 
 function parOuimpar(n){
